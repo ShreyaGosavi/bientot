@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "Plan the day you'll actually have.",
   "scripts": {
-    "prepare": "husky"
+    "prepare": "husky",
+    "format:check": "prettier --check .",
+    "lint:md": "markdownlint-cli2 \"**/*.md\" \"#node_modules\""
   },
   "keywords": [],
   "author": "Shreya Gosavi",
