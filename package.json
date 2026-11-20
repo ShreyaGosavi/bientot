@@ -1,0 +1,18 @@
+{
+  "name": "bientot",
+  "version": "0.1.0",
+  "description": "Plan the day you'll actually have.",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "Shreya Gosavi",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@commitlint/cli": "^21.2.4",
+    "@commitlint/config-conventional": "^21.2.4",
+    "husky": "^9.1.7",
+    "prettier": "3.10.1"
+  }
+}
