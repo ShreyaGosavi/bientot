@@ -190,7 +190,7 @@ New task arrives at the backend
 3. **Each part has one job.** Show, decide, predict, remember, and no part does another's job.
 4. **Save everything you learn from.** Estimates, actuals, predictions, reasons and feelings are all kept, because data that isn't saved can't teach anything.
 5. **Measure the model honestly.** Every prediction stores its source and is compared with reality.
-6. **Learn per person.** Patterns are personal, so factors and predictions are built for each user, never averaged across everyone.
+6. **Predictions are personal.** One shared model learns how estimation habits work, and each prediction is built from that user's own history.
 7. **Simple first, smart later.** It starts with a formula, adds ML, then adds insights in v2. Each phase works on its own.
 8. **Parts can change independently.** You can retrain the model, redesign screens or switch databases without rewriting the rest.
 
