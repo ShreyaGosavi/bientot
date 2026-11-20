@@ -86,3 +86,14 @@ The calmest and most readable option; its wide, soft shapes match the brand.
 README one-liner: _"Because 'soon' is never soon."_
 
 **Rejected:** Define "soon.", Your "5 minutes," corrected., Know your time., Bientôt, vraiment.
+
+## Tools used
+
+| What                     | Tool                                                                       |
+| ------------------------ | -------------------------------------------------------------------------- |
+| Brainstorming and naming | Claude (discussing options, reasons and rejections)                        |
+| Fonts                    | Google Fonts: Instrument Serif and Lexend (open source, OFL licence)       |
+| Colour palette           | Hex codes chosen and checked for readable contrast                         |
+| Brand images             | Python with Pillow, rendered with the real brand fonts                     |
+| Logo concept             | Python with Pillow (a concept sketch; the final logo is still to be drawn) |
+| App screen mockups       | Claude Design canvas                                                       |
