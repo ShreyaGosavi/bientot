@@ -20,10 +20,10 @@
     "prettier": "3.10.1"
   },
   "lint-staged": {
-    "*.{js,mjs,cjs,ts,tsx,json,css,yml,yaml}": "prettier --write",
     "*.md": [
       "prettier --write",
       "markdownlint-cli2"
-    ]
+    ],
+    "*.{js,mjs,cjs,ts,tsx,json,jsonc,css,yml,yaml}": "prettier --write"
   }
 }

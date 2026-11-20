@@ -2,5 +2,5 @@
   "default": true,
   "MD013": false, // no line-length limit (docs are prose)
   "MD033": false, // allow inline HTML (logos, badges)
-  "MD041": false  // first line doesn't have to be a heading
+  "MD041": false, // first line doesn't have to be a heading
 }
